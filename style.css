@@ -1,0 +1,163 @@
+img {
+    position: absolute;
+
+}
+#Master{
+    height: 25%;
+    width: 5%;
+    left: 48%;
+    top: 25%;
+}
+
+.team12 {
+    height: 15%;
+    width: 5%;
+    left: 40%;
+    top: 5%;
+}
+
+.team13 {
+    height: 15%;
+    width: 5%;
+    left: 36%;
+    top: 40%;
+}
+
+.team14 {
+    height: 15%;
+    width: 5%;
+    left: 40%;
+    top: 75%;
+}
+
+/*End Fronts */
+.team15 {
+    height: 12%;
+    width: 5%;
+    left: 5%;
+    top: 42%;
+}
+
+/* End coat master */
+.team16 {
+    height: 12%;
+    width: 5%;
+    left: 17%;
+    top: 28%;
+}
+
+.team17 {
+    height: 12%;
+    width: 5%;
+    left: 17%;
+    top: 58%;
+}
+
+.team18 {
+    height: 12%;
+    width: 5%;
+    left: 15%;
+    top: 80%;
+}
+
+/* End last with 1 row */
+.team11 {
+    height: 12%;
+    width: 5%;
+    left: 15%;
+    top: 5%;
+}
+
+.team19 {
+    height: 12%;
+    width: 5%;
+    left: 25%;
+    top: 43%;
+}
+
+.team110 {
+    height: 12%;
+    width: 5%;
+    left: 28%;
+    top: 15%;
+}
+
+.team111 {
+    height: 12%;
+    width: 5%;
+    left: 28%;
+    top: 68%;
+}
+
+/* Team 1 Ends  */
+
+/* Court Master */
+.team25{
+    height: 12%;
+    width: 5%;
+    right: 4%;
+    top: 42%;
+}
+/* row 1 */
+.team21{
+    height: 12%;
+    width: 5%;
+    right: 15%;
+    top: 5%;
+}
+.team26{
+    height: 12%;
+    width: 5%;
+    right: 17%;
+    top: 28%;
+}
+.team27{
+    height: 12%;
+    width: 5%;
+    right: 17%;
+    top: 58%;
+}
+.team28{
+    height: 12%;
+    width: 5%;
+    right: 15%;
+    top: 80%;
+}
+/* Fronts  */
+.team22{
+    height: 15%;
+    width: 5%;
+    right: 40%;
+    top: 5%;
+}
+.team23{
+    height: 15%;
+    width: 5%;
+    right: 36%;
+    top: 40%;
+}
+.team24{
+    height: 15%;
+    width: 5%;
+    right:40%;
+    top: 75%;
+}
+/* middle */
+.team29{
+    height: 12%;
+    width: 5%;
+    right:25%;
+    top: 43%;
+}
+.team210{
+    height: 12%;
+    width: 5%;
+    right:28%;
+    top: 15%;
+}
+.team211{
+    height: 12%;
+    width: 5%;
+    right:28%;
+    top: 68%;
+}
